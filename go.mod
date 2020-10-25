@@ -1,3 +1,3 @@
-module github.com/linoecarrillo/tobq
+module github.com/linoecarrillo/bdfe
 
 go 1.15
